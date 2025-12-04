@@ -207,5 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 
-web_search_agent.py
 travel_agent.py

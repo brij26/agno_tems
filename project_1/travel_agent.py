@@ -2,7 +2,7 @@ from agno.agent import Agent
 from agno.models.openai import OpenAIChat
 from agno.team import Team
 from dotenv import load_dotenv
-from news_agent import news_agent
+from project_1.news_agent import news_agent
 from web_search_agent import web_search_agent
 
 
